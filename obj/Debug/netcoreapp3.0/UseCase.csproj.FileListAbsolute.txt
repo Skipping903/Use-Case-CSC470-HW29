@@ -1,0 +1,11 @@
+C:\Users\Luke Albiero\source\repos\UseCase\bin\Debug\netcoreapp3.0\UseCase.exe
+C:\Users\Luke Albiero\source\repos\UseCase\bin\Debug\netcoreapp3.0\UseCase.deps.json
+C:\Users\Luke Albiero\source\repos\UseCase\bin\Debug\netcoreapp3.0\UseCase.runtimeconfig.json
+C:\Users\Luke Albiero\source\repos\UseCase\bin\Debug\netcoreapp3.0\UseCase.runtimeconfig.dev.json
+C:\Users\Luke Albiero\source\repos\UseCase\bin\Debug\netcoreapp3.0\UseCase.dll
+C:\Users\Luke Albiero\source\repos\UseCase\bin\Debug\netcoreapp3.0\UseCase.pdb
+C:\Users\Luke Albiero\source\repos\UseCase\obj\Debug\netcoreapp3.0\UseCase.csprojAssemblyReference.cache
+C:\Users\Luke Albiero\source\repos\UseCase\obj\Debug\netcoreapp3.0\UseCase.AssemblyInfoInputs.cache
+C:\Users\Luke Albiero\source\repos\UseCase\obj\Debug\netcoreapp3.0\UseCase.AssemblyInfo.cs
+C:\Users\Luke Albiero\source\repos\UseCase\obj\Debug\netcoreapp3.0\UseCase.dll
+C:\Users\Luke Albiero\source\repos\UseCase\obj\Debug\netcoreapp3.0\UseCase.pdb
